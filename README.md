@@ -12,6 +12,10 @@ Authors: Chenlin Du*, Xiaoxuan Chen*, Jingyi Wang, Junjie Wang, Zhongsen Li, Zon
 - [ ] Release checkpoints.
 - [ ] Release trainning code.
 
+## Installation
+
+As we utilized the MMDetection implementation of GroundingDINO as our base model. Please refer to [Installation](https://mmdetection.readthedocs.io/en/latest/get_started.html) and the [Config File](https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino) for installation instructions.
+
 ## :hearts: Acknowledgement
 
 Our model is related to [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/) and [MMDetction](https://github.com/open-mmlab/mmdetection). Thanks for their great work!
