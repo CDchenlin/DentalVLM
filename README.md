@@ -4,3 +4,11 @@ This repository will contain annotations and code that underpins the innovative 
 Authors: Chenlin Du, Xiaoxuan Chen, Jingyi Wang, Junjie Wang, Zhongsen Li, Zongjiu Zhang, Qicheng Lao.
 
 ![Illustration of the proposed framework](main_figure.png)
+
+## :label: TODO 
+
+- [ ] Release annotations.
+- [ ] Release inference code.
+- [ ] Release checkpoints.
+- [ ] Release trainning code.
+
