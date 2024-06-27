@@ -12,3 +12,9 @@ Authors: Chenlin Du, Xiaoxuan Chen, Jingyi Wang, Junjie Wang, Zhongsen Li, Zongj
 - [ ] Release checkpoints.
 - [ ] Release trainning code.
 
+## :hearts: Acknowledgement
+
+Our model is related to [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO/) and [MMDetction](https://github.com/open-mmlab/mmdetection). Thanks for their great work!
+
+We also thank all the dentists who have helped to annotate the data.
+
