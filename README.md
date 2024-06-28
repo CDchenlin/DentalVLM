@@ -1,5 +1,5 @@
 # Prompting Vision-Language Models for Dental Notation Aware Abnormality Detection
-This repository will contain annotations and code related to the MICCAI 2024 paper accepted paper Prompting Vision-Language Models for Dental Notation Aware Abnormality Detection. 
+This repository will contain annotations and code related to the MICCAI 2024 accepted paper Prompting Vision-Language Models for Dental Notation Aware Abnormality Detection. 
 
 Authors: Chenlin Du*, Xiaoxuan Chen*, Jingyi Wang, Junjie Wang, Zhongsen Li, Zongjiu Zhang<sup>:email:</sup>, Qicheng Lao<sup>:email:</sup>.
 
