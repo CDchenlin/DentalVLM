@@ -19,7 +19,9 @@ As we utilized the MMDetection implementation of GroundingDINO as our base model
 
 ## Data
 
-Our work utlized the quadrant-enumerated subset of the [DENTEX dataset]([https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino](https://arxiv.org/abs/2305.19112)), which we further annotated with six different dental abnoramlities. Please refer to their [repository](https://github.com/ibrahimethemhamamci/HierarchicalDet) for the panoramic X-ray images download. We thank the authors of DENTEX dataset for providing the valuable data.
+Our work utlized the quadrant-enumerated subset of the [DENTEX dataset]([https://github.com/open-mmlab/mmdetection/tree/main/configs/grounding_dino](https://arxiv.org/abs/2305.19112)), which we further annotated with six different dental abnoramlities. Please refer to their [repository](https://github.com/ibrahimethemhamamci/HierarchicalDet) for the panoramic X-ray images download. 
+
+We thank the authors of DENTEX dataset for providing the valuable data.
 
 ## :hearts: Acknowledgement
 
